@@ -1,0 +1,15 @@
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.AssemblyInfoInputs.cache
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.AssemblyInfo.cs
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\orgenci2.exe
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\orgenci2.deps.json
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\orgenci2.runtimeconfig.json
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\orgenci2.runtimeconfig.dev.json
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\orgenci2.dll
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\orgenci2.pdb
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.dll
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\refint\orgenci2.dll
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.pdb
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\orgenci2.genruntimeconfig.cache
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\ref\orgenci2.dll

@@ -1,0 +1,45 @@
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\YTM1.exe
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\YTM1.deps.json
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\YTM1.runtimeconfig.json
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\YTM1.runtimeconfig.dev.json
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\YTM1.dll
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\bin\Debug\net5.0\YTM1.pdb
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.AssemblyInfoInputs.cache
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.AssemblyInfo.cs
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.dll
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\refint\YTM1.dll
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.pdb
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\YTM1.genruntimeconfig.cache
+C:\Users\SEMA\source\repos\orgenci2\orgenci2\obj\Debug\net5.0\ref\YTM1.dll
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\bin\Debug\net5.0\YTM1.exe
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\bin\Debug\net5.0\YTM1.deps.json
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\bin\Debug\net5.0\YTM1.runtimeconfig.json
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\bin\Debug\net5.0\YTM1.runtimeconfig.dev.json
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\bin\Debug\net5.0\YTM1.dll
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\bin\Debug\net5.0\YTM1.pdb
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.AssemblyInfoInputs.cache
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.AssemblyInfo.cs
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.dll
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\refint\YTM1.dll
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.pdb
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\YTM1.genruntimeconfig.cache
+C:\Users\SEMA\source\repos\YTM1 odev\YTM1\obj\Debug\net5.0\ref\YTM1.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\bin\Debug\net5.0\YTM1.exe
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\bin\Debug\net5.0\YTM1.deps.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\bin\Debug\net5.0\YTM1.runtimeconfig.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\bin\Debug\net5.0\YTM1.runtimeconfig.dev.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\bin\Debug\net5.0\YTM1.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\bin\Debug\net5.0\YTM1.pdb
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.AssemblyInfoInputs.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.AssemblyInfo.cs
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\refint\YTM1.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.pdb
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\YTM1.genruntimeconfig.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\YTM1\obj\Debug\net5.0\ref\YTM1.dll
