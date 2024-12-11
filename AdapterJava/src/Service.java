@@ -10,7 +10,7 @@ public class Service {
     }
 
     public void addUser(User user){
-        db.insertUser(null);
+        db.insertUser(user);
     }
 
     public DB getDb(){
