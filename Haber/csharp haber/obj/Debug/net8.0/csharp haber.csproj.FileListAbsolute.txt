@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\csharp haber\bin\Debug\net8.0\csharp haber.exe
+C:\Users\LENOVO\Desktop\csharp haber\bin\Debug\net8.0\csharp haber.deps.json
+C:\Users\LENOVO\Desktop\csharp haber\bin\Debug\net8.0\csharp haber.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp haber\bin\Debug\net8.0\csharp haber.dll
+C:\Users\LENOVO\Desktop\csharp haber\bin\Debug\net8.0\csharp haber.pdb
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.dll
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\refint\csharp haber.dll
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.pdb
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\csharp haber.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp haber\obj\Debug\net8.0\ref\csharp haber.dll
